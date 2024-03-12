@@ -1,0 +1,11 @@
+{
+    "name": "clock",
+    "description": "clock",
+    "version": "1.0",
+    "manifest_version": 3,
+    "chrome_url_overrides": {
+      "newtab": "clock.html"
+    },
+    "offline_enabled": true
+  }
+  
